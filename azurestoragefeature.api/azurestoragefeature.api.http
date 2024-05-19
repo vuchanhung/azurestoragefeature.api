@@ -1,0 +1,6 @@
+@azurestoragefeature.api_HostAddress = http://localhost:5148
+
+GET {{azurestoragefeature.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
