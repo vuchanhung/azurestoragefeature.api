@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azurestoragefeature.api", "azurestoragefeature.api\azurestoragefeature.api.csproj", "{82D25145-4F2F-4E5F-B1F5-316B0A117BB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriggerQueueFunction", "TriggerQueueFunction\TriggerQueueFunction.csproj", "{893BBD7F-323B-40A1-9699-DF0D159689D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{82D25145-4F2F-4E5F-B1F5-316B0A117BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82D25145-4F2F-4E5F-B1F5-316B0A117BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82D25145-4F2F-4E5F-B1F5-316B0A117BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{893BBD7F-323B-40A1-9699-DF0D159689D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893BBD7F-323B-40A1-9699-DF0D159689D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893BBD7F-323B-40A1-9699-DF0D159689D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{893BBD7F-323B-40A1-9699-DF0D159689D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
